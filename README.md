@@ -11,7 +11,19 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 - Protheus  
 - ADVPL  
 - Orientação a objetos  
-- Desenvolvimento de projetos completos  
+- Desenvolvimento de projetos completos
+
+## 🚀 Acompanhamento das Pílulas
+
+Aqui estão os estudos práticos realizados durante a jornada Start+ TOTVS:
+
+| Pílula | Conteúdo | Status |
+| :--- | :--- | :--- |
+| [Pílula 08](pilula08/) | Variáveis e notação húngara | ✅ Concluído |
+| [Pílula 09](pilula09/) | Lógica booleana | ✅ Concluído |
+| [Pílula 10](pilula10/) | Estruturas de decisão (IF/ELSE) | ✅ Concluído |
+
+---
 
 ## 📌 Status
 
