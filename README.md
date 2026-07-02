@@ -36,6 +36,27 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | [Pílula 15](pilula15/) | Dicionário de dados do Protheus | ✅ Concluído |
 | [Pílula 16](pilula16/) | CRUD e AxCadastro no Protheus | ✅ Concluído |
 
+---
+
+## 🏗️ Projeto Final (TCC)
+
+Este será o projeto principal desenvolvido durante a jornada Start+ TOTVS.
+
+Diferente das pílulas de estudo, aqui será construída uma funcionalidade real no Protheus, baseada em um cenário corporativo:
+
+➡️ **Controle de Não Conformidades na entrada de materiais**
+
+O projeto envolverá:
+
+- Tabelas customizadas (SX2/SX3)
+- CRUD completo
+- Validações de negócio
+- Menus no SIGACOM
+- Relatórios gerenciais
+
+📂 **Acompanhe o desenvolvimento:**  
+[Projeto Final - TCC](projeto-final-tcc/)
+
 
 
 
