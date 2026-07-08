@@ -35,6 +35,13 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | [Pílula 14](pilula14/) | O ERP que move o Brasil | ✅ Concluído |
 | [Pílula 15](pilula15/) | Dicionário de dados do Protheus | ✅ Concluído |
 | [Pílula 16](pilula16/) | CRUD e AxCadastro no Protheus | ✅ Concluído |
+| [Pílula 17](pilula17/) | Projeto Integrador (TCC) | 📖 Conceitual |
+| [Pílula 18](pilula18/) | Suas 6 ferramentas de jornada | 📖 Conceitual |
+| [Pílula 19](pilula19/) | "Eu não nasci pra programar" é o maior mito que existe | 📖 Conceitual |
+| [Pílula 20](pilula20/) | Erros são seus melhores professores | 📖 Conceitual |
+| [Pílula 21](pilula21/) | O terminal é amigo, não inimigo | 📖 Conceitual |
+| [Pílula 22](pilula22/) | Git: o diário do seu código | 📖 Conceitual |
+| [Pílula 23](pilula23/) | Nomes que importam: a arte de nomear bem | ✅ Concluído |
 
 
 
