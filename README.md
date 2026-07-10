@@ -43,6 +43,12 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | [Pílula 22](pilula22/) | Git: o diário do seu código | 📖 Conceitual |
 | [Pílula 23](pilula23/) | Nomes que importam: a arte de nomear bem | ✅ Concluído |
 
+---
+## 📚 Aulas
+
+| Aula | Assunto | Status |
+|------|---------|--------|
+| [Aula 01](aula01/) | Configuração do Ambiente | ✅ Concluído |
 
 
 
