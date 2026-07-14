@@ -1,4 +1,4 @@
-# 📘 Aula 01 — Configuração do Ambiente
+# 📘 Configuração do Ambiente
 
 ## 🎯 Objetivo
 
