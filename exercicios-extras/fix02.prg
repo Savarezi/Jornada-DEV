@@ -8,15 +8,15 @@ Escreva Resultado
 Fim */
 
 
-// Definindo a fun√ß√£o que realiza a tarefa
+// Definindo a funÁ„o que realiza a tarefa
 FUNCTION SomarValores(a, b)
     LOCAL resultado
 
     resultado := a + b  // Processamento: soma os valores recebidos
-    RETURN resultado    // Retorna o resultado para quem chamou a fun√ß√£o
+    RETURN resultado    // Retorna o resultado para quem chamou a funÁ„o
 
 // Exemplo de uso:
 PROCEDURE Main
-    LOCAL soma := SomarValores(10, 5) // Chama a fun√ß√£o passando os valores
-    QQOUT( soma                            // Sa√≠da: exibe o 15 na tela
+    LOCAL soma := SomarValores(10, 5) // Chama a funÁ„o passando os valores
+    QQOUT( soma                            // Sai≠da: exibe o 15 na tela
 RETURN
