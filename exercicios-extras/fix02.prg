@@ -1,3 +1,13 @@
+
+/*Anatomia do pseudocódigo
+ Início
+ Leia A
+ Leia B
+ Resultado <- A + B
+Escreva Resultado
+Fim */
+
+
 // Definindo a funÃ§Ã£o que realiza a tarefa
 FUNCTION SomarValores(a, b)
     LOCAL resultado
