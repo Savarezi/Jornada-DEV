@@ -39,7 +39,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 >  🌐 [Portfólio Online](https://patriciaoliveiradev.netlify.app/)
 ---
 
-## 📊 Progresso
+##  Progresso
 
 - 📖 Pílulas: 27/27
 - 💻 Aulas: 1/10
