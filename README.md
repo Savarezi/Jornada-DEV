@@ -24,7 +24,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 
 | Seção | Descrição |
 |--------|-----------|
-| 📖 [Pílulas](pilulas/) | Conteúdo teórico e exercícios introdutórios |
+| 💊 [Pílulas](pilulas/) | Conteúdo teórico e exercícios introdutórios |
   💻 [Módulo 01](modulo-01/) | Exercícios práticos do primeiro módulo |
   💻 [Módulo 02](modulo-02/) | Lógica, algoritmos e fluxogramas|
   💻 [Módulo 03](modulo-03/) | Variáveis,tipos e operadores|
