@@ -8,13 +8,13 @@ Os arquivos servem como referência para consulta dos conteúdos estudados em ca
 
 ## 📂 Apostilas
 
-| Módulo | Apostila |
-|--------|----------|
-| 01 | 📖 [Apostila — Módulo 01](Apostila — Módulo 01.pdf) |
-| 02 | 📖 [Apostila — Módulo 02](Apostila — Módulo 02.pdf) |
-| 03 | 📖 [Apostila — Módulo 03](Apostila — Módulo 03.pdf) |
-| 04 | 📖 [Apostila — Módulo 04](Apostila — Módulo 04.pdf) |
-| 05 | 📖 [Apostila — Módulo 05](Apostila — Módulo 05.pdf) |
+| Módulo | Conteúdo | Apostila |
+| :---: | :--- | :---: |
+| 01 | Primeiros Passos com Harbour | 📖 [Abrir](apostila_modulo01.pdf) |
+| 02 | Lógica de Programação | 📖 [Abrir](apostila_modulo02.pdf) |
+| 03 | Variáveis, Tipos e Operadores | 📖 [Abrir](apostila_modulo03.pdf) |
+| 04 | Decisões (Condicionais) | 📖 [Abrir](apostila_modulo04.pdf) |
+| 05 | Repetição (Loops) | 📖 [Abrir](apostila_modulo05.pdf) |
 
 ---
 
