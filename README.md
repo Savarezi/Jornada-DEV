@@ -43,7 +43,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 ##  Progresso
 
 - 📖 Pílulas: 27/27
-- 💻 Aulas: 1/10
+- 💻 Aulas: 5/10
 - 🚀 Projeto Final: Em desenvolvimento
 
 ---
