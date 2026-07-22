@@ -6,49 +6,26 @@ Neste módulo foram praticados conceitos de **funções, modularização, arrays
 
 ---
 
+
+
 ## 📚 Exercícios
 
-### 🧱 Parte A — Funções
-
-| Exercício | Descrição | Código |
+| Exercício | Descrição | Arquivo |
 | :---: | :--- | :---: |
 | 01 | Função ou procedimento? | 📝 [Abrir](ex01-funcao-ou-procedimento.txt) |
 | 02 | Relógio digital modular | 📄 [Abrir](ex02-relogio-digital.prg) |
 | 03 | Calculadora com funções | 📄 [Abrir](ex03-calculadora-funcoes.prg) |
-| 04 | Biblioteca matemática | 📄 [matematica.prg](matematica.prg) · [principal.prg](principal.prg) |
+| 04 | Biblioteca matemática | 📄 [matematica.prg](matematica.prg) · 📄 [principal.prg](principal.prg) |
 | 05 | Jokenpo modular *(desafio)* | 📄 [Abrir](ex05-jokenpo.prg) |
-
----
-
-### 🥚 Parte B — Arrays
-
-| Exercício | Descrição | Código |
-| :---: | :--- | :---: |
 | 06 | Dias da semana por índice | 📄 [Abrir](ex06-dias-semana.prg) |
 | 07 | Estatísticas de 10 números | 📄 [Abrir](ex07-estatisticas.prg) |
 | 08 | Sistema de notas | 📄 [Abrir](ex08-sistema-notas.prg) |
 | 09 | Mini-carrinho de compras | 📄 [Abrir](ex09-mini-carrinho.prg) |
 | 10 | Bubble Sort na mão *(desafio)* | 📄 [Abrir](ex10-bubble-sort.prg) |
+| 11 | Mini-controle de estoque | 📄 [ex11-controle-estoque.prg](ex11-controle-estoque.prg) · 📄 [estoque_lib.prg](estoque_lib.prg) ||
 
 ---
 
-### 💪 Parte C — A dupla poderosa
-
-| Exercício | Descrição | Código |
-| :---: | :--- | :---: |
-| 11 | Mini-controle de estoque | 📄 [Programa principal](ex11-controle-estoque.prg) · [Biblioteca](estoque_lib.prg) |
-
----
-
-## 🎁 Exercícios Bônus
-
-Os exercícios bônus são materiais extras para praticar conceitos além da atividade obrigatória do módulo.
-
-| Conteúdo | Descrição | Acesso |
-| :--- | :--- | :---: |
-| 🗃️ Arquivos DBF | Arquivos DBF nativos em Harbour | 📁 [Acessar](exercicios_bonus/) |
-
----
 
 ## 🎯 Objetivos de aprendizagem
 
