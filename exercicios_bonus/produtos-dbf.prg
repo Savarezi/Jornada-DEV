@@ -14,6 +14,7 @@ FUNCTION Main()
       { "PRECO",  "N", 10, 2 },;
       { "ESTOQUE","N", 5, 0 };
    }
+//==========================================================================//
 
    // Cria a tabela somente se ela ainda não existir.
    IF ! File( "PRODUTOS.DBF" )
