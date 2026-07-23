@@ -33,7 +33,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
   💻 [Módulo 06](modulo-06/) | Funções e Arrays|
 | 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
 | 📝 [Exercícios de Fixação](exercicios-extras/) |Exercícios realizados durante a aula |
-| 📝 [Exercícios de Bonus](exercicios-bonus/) |Arquivos DBF nativos em Harbour |
+| 📝 [Exercícios de Bonus](exercicios_bonus/) |Arquivos DBF nativos em Harbour |
 | 📕 [Materiais de apoio](materiais/) |Conteúdo e Materiais de Apoio por Módulo |
 
 
