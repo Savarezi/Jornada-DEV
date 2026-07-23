@@ -27,7 +27,7 @@ FUNCTION Main()
 RETURN NIL
 
 
-// Lê um número informado pelo usuário.
+// Lê um número informado pelo usuário e retorna o valor numérico correspondente.
 FUNCTION LerNumero( cMensagem )
 
    LOCAL cValor

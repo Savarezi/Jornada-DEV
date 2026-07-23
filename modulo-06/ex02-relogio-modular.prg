@@ -16,7 +16,7 @@ FUNCTION Main()
 RETURN NIL
 
 
-// Obtém a hora atual do sistema.
+// Obtém a hra atual do sistema e retorna no formato HH:MM:SS.
 FUNCTION ObterHora()
 
 RETURN Time()
