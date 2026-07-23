@@ -9,8 +9,8 @@
 
 Identificar a diferença entre uma **função** e um **procedimento** no Harbour.
 
-- 🔹 **Função:** executa uma operação e **retorna um valor**.
-- 🔹 **Procedimento:** executa uma **ação**, sem retornar um valor utilizado pelo programa.
+>- 🔹 **Função:** executa uma operação e **retorna um valor**.
+>- 🔹 **Procedimento:** executa uma **ação**, sem retornar um valor utilizado pelo programa.
 
 ---
 

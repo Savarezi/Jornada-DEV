@@ -72,7 +72,7 @@ FUNCTION Calcular( nA, nB, cOperacao )
 RETURN NIL
 
 
-// Exibe o resultado da operação.
+// Exibe o resultado da operação ou uma mensagem de erro.
 FUNCTION MostrarResultado( xResultado )
 
    QOut( "" )

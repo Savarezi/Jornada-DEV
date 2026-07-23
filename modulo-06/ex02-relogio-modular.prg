@@ -28,7 +28,6 @@ FUNCTION FormatarHora( cHora )
 RETURN cHora
 
 
-// Exibe a hora na tela.
 FUNCTION ExibirHora( cHora )
 
    CLS
