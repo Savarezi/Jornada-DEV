@@ -24,6 +24,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 
 | Seção | Descrição |
 |--------|-----------|
+| 📖 [Documentação Notion](https://strong-battery-d3e.notion.site/Start-TOTVS-2b699ba03caf80b796badbbdb035405f?source=copy_link) | Anotações, resumos e conteúdos da jornada no Notion |
 | 💊 [Pílulas](pilulas/) | Conteúdo teórico e exercícios introdutórios |
   💻 [Módulo 01](modulo-01/) | Exercícios práticos do primeiro módulo |
   💻 [Módulo 02](modulo-02/) | Lógica, algoritmos e fluxogramas|
